@@ -32,7 +32,7 @@ def stat(qq):
   data = {
     "chat_id": str(qq),
     "photo": "https://telegra.ph/file/1f6b5523ae7cb89cbd1a5.jpg",
-    "caption": "Hello ! \n I'm Doenets Exam Result Bot \n\n What does I Know \n\n • G.C.E. (A/L) EXAMINATION - 2020 \n • G.C.E. (O/L) EXAMINATION (After Rescrutiny) - 2019 \n • GRADE 5 SCHOLARSHIP EXAMINATION (AFTER APPES) - 2020 \n\n ~ By @Venuja_Sadew 🇱🇰 ",
+    "caption": "👋 Hello ! \n I'm Exam Result Bot \n\n What does I Know \n\n • G.C.E. (A/L) EXAMINATION - 2020 \n • G.C.E. (O/L) EXAMINATION (After Rescrutiny) - 2019 \n • GRADE 5 SCHOLARSHIP EXAMINATION (AFTER APPES) - 2020 \n\n Click /help ~ By @Venuja_Sadew 🇱🇰 ",
     "parse_mode": "HTML",
     "reply_markup": {
         "inline_keyboard": [
