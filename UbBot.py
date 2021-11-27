@@ -220,7 +220,7 @@ async def G5result(event):
 
 
 def main():
-    """Start the bot. \n \n ~ @Venuja_Sadew""
+    """Start the bot. \n \n ~ Venuja_Sadew""
     bot.run_until_disconnected()
 
 if __name__ == '__main__':
