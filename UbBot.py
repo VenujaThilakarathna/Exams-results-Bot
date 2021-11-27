@@ -216,8 +216,8 @@ async def G5result(event):
     raise events.StopPropagation
 
 
-   def main():
-    """Start the bot. \n \n ~ Venuja_Sadew"""
+def main():
+    """Start the bot."""
     bot.run_until_disconnected()
 
 if __name__ == '__main__':
